@@ -1,0 +1,1 @@
+(()=>{"use strict";(function(o="sergiturbadenas@gmail.com"){let e=o;return{email:e,consoleme:function(){console.log("Usuari: "+e)}}})("pepet@gmail.com").consoleme(),console.log("prova")})();
