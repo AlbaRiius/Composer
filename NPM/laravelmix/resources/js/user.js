@@ -1,4 +1,4 @@
-module.exports = function (e = 'albarius@gmail.com') {
+export default function (e = 'sergiturbadenas@gmail.com') {
     let email = e;
     var password = 'asdasdasdas';
 
